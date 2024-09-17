@@ -1,2 +1,4 @@
 # PaperSmith
 Automated Literature Review and Hypothesis Generation Using Retrieval-Augmented Generation (RAG)
+
+This project is based on Retrieval-Augmented Generation (RAG) models that automate the process of synthesizing academic literature as well as generating research hypotheses. It integrates document retrieval and generative models, such that users may input any query followed by an exhaustive overview of the relevant papers along with generated hypotheses. The automated tools for systematic literature review and hypothesis search accelerate scientific research while cutting down significantly on manual effort and time spent on the same.
